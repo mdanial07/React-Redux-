@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "redux-example-a",
-=======
   "name": "bowler",
->>>>>>> c4b94575bb0d8e9f78b4a2376e5d1dc3ec7ac37a
   "version": "0.1.0",
   "private": true,
   "dependencies": {

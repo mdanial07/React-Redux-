@@ -1,5 +1,4 @@
 
-import * as firebase from "firebase";
 
 function counter(value = 0, action) {
     switch (action.type) {
